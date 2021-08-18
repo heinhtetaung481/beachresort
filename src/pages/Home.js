@@ -6,6 +6,7 @@ import Services from '../components/Services';
 import {Link} from 'react-router-dom';
 import FeaturedRooms from '../components/FeaturedRooms';
 
+// test vs code on github
 const Home = () => {
     return (
         <>
